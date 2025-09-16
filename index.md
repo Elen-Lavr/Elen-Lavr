@@ -1,4 +1,4 @@
-![](path/to/image.png)
+![](Law_Lena.png)
 # Елена Лаврушева
 ## Аналитик данных Data Analyst 
 
