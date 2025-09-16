@@ -1,4 +1,4 @@
-
+[](path/to/image.png)
 # Елена Лаврушева
 ## Аналитик данных Data Analyst 
 
