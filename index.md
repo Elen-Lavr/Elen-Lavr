@@ -1,9 +1,9 @@
-[](path/to/image.png)
+![](path/to/image.png)
 # Елена Лаврушева
 ## Аналитик данных Data Analyst 
 
 ### Контакты
-* **Telegram: @Law_Lena
+* **Telegram**: @Law_Lena
 * **Whats App** +7 (917) 102-00-03
 * **Email:** law.lena.12@gmail.com
 * **GitHub:** [Elen-Lavr](https://github.com/Elen-Lavr)
