@@ -1,6 +1,6 @@
 # Hi! My name is Elena Lavrusheva 👋
 
-- 🏢 Data Analyst | Data-driven decision making specialist
+- 🏢 Data Analyst | I help see the picture of what's happening in the present and future through the prism of data. Behind every number lies a solution. My job is to make the connections obvious and clear.
 - 📚 I am constantly improving my knowledge of data analysis, applying this approach in my work and life
 
 ---
