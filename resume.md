@@ -7,6 +7,8 @@
 [![Email](https://img.shields.io/badge/Email-lena.law.1536@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:?to=lena.law.1536@gmail.com)
 [![Taplink](https://img.shields.io/badge/Taplink-lawlena.taplink.ws-90EE90?style=flat&logo=linktree&logoColor=black)](https://lawlena.taplink.ws)
 
+<script src="//taplink.cc/id:13868797/widget/" async></script>
+
 ### Ключевые компетенции
     * Получение данных с помощью языка запросов SQL
     * Очистка и трансформация данных с помощью Python
