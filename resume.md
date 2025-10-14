@@ -5,7 +5,7 @@
 ### Контакты
 [![Telegram](https://img.shields.io/badge/Telegram-@username-2CA5E0?style=flat&logo=telegram)](https://t.me/Elen_Lawr)
 [![Email](https://img.shields.io/badge/Email-your.email@example.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:your.lena.law.1536@gmail.com)
-[![Taplink](https://img.shields.io/badge/Taplink-Profile-90EE90?style=flat&logo=linktree&logoColor=black)](https://https://lawlena.taplink.ws)
+[![Taplink](https://img.shields.io/badge/Taplink-Profile-90EE90?style=flat&logo=linktree&logoColor=black)](https://lawlena.taplink.ws)
 
 ### Ключевые компетенции
     * Получение данных с помощью языка запросов SQL
