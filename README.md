@@ -39,7 +39,7 @@
 - SQL - Project [«SQL and data retrieval»](https://github.com/Elen-Lavr/Elen-Lavr-Aviation-Transportation-SQL-Analytics)
 
 ---
-##  💼 Qualification Documents
+##  💼 Квалификационные документы
 - Диплом [Аналитик данных]()
 - Certificate [Аналитик данных](https://drive.google.com/file/d/1S3zms0H2frGiDMNjlNuTQR5HksHuRXUF/view?usp=sharing)
 - Certificate [Основы аналитики и аналитическое мышление](https://drive.google.com/file/d/1eQCZcFzxW7dHNsBbwO6DruxNuGvEZ6S3/view?usp=sharing)
