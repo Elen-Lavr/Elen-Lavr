@@ -8,7 +8,7 @@
 
 ---
 
-## 🛠️ Tech stack and skills
+## 🛠️ Технологический стек и навыки
 
 ### 🗄️ Main Stack
 - **Programming Languages & Querying:**
@@ -37,6 +37,13 @@
 ### 📈 My Projects
 - Python - Project "Analysis of company employees and factors of dismissals (search for insights, preparation of recommendations for stakeholders)"» [presentation](https://docs.google.com/presentation/d/1T62pE2gxabrzqUdDwJtrXIX00CGbjE3W-6_ucWyvaAw/edit?usp=drive_link), [documentation](https://docs.google.com/document/d/1nRBsEwDocHEfVZivZRKNHM0efwtv2Zam/edit?usp=drive_link&ouid=115475321101961781777&rtpof=true&sd=true), [notebook](https://colab.research.google.com/drive/1YcXaNxrBdmPzy8ZANEDmNNY0ZCgDsBiS?usp=drive_link)
 - SQL - Project [«SQL and data retrieval»](https://github.com/Elen-Lavr/Elen-Lavr-Aviation-Transportation-SQL-Analytics)
+
+---
+## 🧠 Ключевые навыки (Soft Skills)
+-   **Бизнес-мышление & Коммуникация** -> опыт управления организацией научили меня переводить бизнес-проблемы на язык данных и доносить инсайты до любой аудитории
+-   **Управление проектами** -> опыт полного цикла управления проектами: от идеи и планирования до реализации и анализа результатов
+-   **Решение сложных задач** -> системный подход к решению проблем: от выдвижения гипотез до внедрения решений, основанных на данных
+-  **Работа в команде & Лидерство** -> умение мотивировать команду и эффективно взаимодействовать с коллегами из разных отделов 
 
 ---
 ##  💼 Квалификационные документы
