@@ -7,6 +7,11 @@
 [![Email](https://img.shields.io/badge/Email-36@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:lena.law.1536@gmail.com)
 [![Taplink](https://img.shields.io/badge/Taplink-Profile-90EE90?style=flat&logo=linktree&logoColor=black)](https://lawlena.taplink.ws)
 
+[![Email](https://img.shields.io/badge/Email-36@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:lena.law.1536@gmail.com?subject=Contact%20from%20GitHub)
+[![Email](https://img.shields.io/badge/Email-36@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:lena.law.1536@gmail.com?to=36@gmail.com)
+[![Email](https://img.shields.io/badge/Email-36@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=lena.law.1536@gmail.com)
+[![Email](https://img.shields.io/badge/Email-Contact%20Me-D14836?style=flat&logo=gmail&logoColor=white)](mailto:lena.law.1536@gmail.com)
+
 ### Ключевые компетенции
     * Получение данных с помощью языка запросов SQL
     * Очистка и трансформация данных с помощью Python
