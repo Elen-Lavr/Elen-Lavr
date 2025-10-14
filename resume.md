@@ -3,9 +3,9 @@
 ## Аналитик данных Data Analyst 
 
 ### Контакты
-[![Telegram](https://img.shields.io/badge/Telegram-@username-2CA5E0?style=flat&logo=telegram)](https://t.me/Elen_Lawr)
+[![Telegram](https://img.shields.io/badge/Telegram-@Elen_Lawr-2CA5E0?style=flat&logo=telegram)](https://t.me/Elen_Lawr)
 [![Email](https://img.shields.io/badge/Email-lena.law.1536@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:lena.law.1536@gmail.com)
-[![Taplink](https://img.shields.io/badge/Taplink-Profile-90EE90?style=flat&logo=linktree&logoColor=black)](https://lawlena.taplink.ws)
+[![Taplink](https://img.shields.io/badge/Taplink-lawlena.taplink.ws-90EE90?style=flat&logo=linktree&logoColor=black)](https://lawlena.taplink.ws)
 
 [![Email](https://img.shields.io/badge/Email-lena.law.1536@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:lena.law.1536@gmail.com?subject=Contact%20from%20GitHub)
 [![Email](https://img.shields.io/badge/Email-lena.law.1536@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:lena.law.1536@gmail.com?to=36@gmail.com)
