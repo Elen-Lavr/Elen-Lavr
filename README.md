@@ -33,7 +33,7 @@
 
 ### 📈 My Projects
 - Python - Project "Analysis of company employees and factors of dismissals (search for insights, preparation of recommendations for stakeholders)"» [presentation](https://docs.google.com/presentation/d/1T62pE2gxabrzqUdDwJtrXIX00CGbjE3W-6_ucWyvaAw/edit?usp=drive_link), [documentation](https://docs.google.com/document/d/1nRBsEwDocHEfVZivZRKNHM0efwtv2Zam/edit?usp=drive_link&ouid=115475321101961781777&rtpof=true&sd=true), [notebook](https://colab.research.google.com/drive/1YcXaNxrBdmPzy8ZANEDmNNY0ZCgDsBiS?usp=drive_link)
-- SQL - Project [«SQL and data retrieval»](https://github.com/Elen-Lavr/Elen-Lavr-Aviation-Transportation-SQL-Analytics/settings)
+- SQL - Project [«SQL and data retrieval»](https://github.com/Elen-Lavr/Elen-Lavr-Aviation-Transportation-SQL-Analytics)
 
 ---
 ##  💼 Qualification Documents
