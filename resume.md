@@ -16,6 +16,10 @@
 [![Email](https://img.shields.io/badge/Email-lena.law.1536@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:lena.law.1536@gmail.com?subject=Contact)
 
 
+**Email:** 36@gmail.com
+[![Email](https://img.shields.io/badge/Email-lena.law.1536@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:lena.law.1536@gmail.com)
+
+
 ### Ключевые компетенции
     * Получение данных с помощью языка запросов SQL
     * Очистка и трансформация данных с помощью Python
