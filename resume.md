@@ -3,10 +3,9 @@
 ## Аналитик данных Data Analyst 
 
 ### Контакты
-* **Telegram**: @Law_Lena
-* **Whats App:** +7 (917) 102-00-03
+* **Telegram**: @Elen_Lawr
 * **Email:** lena.law.1536@gmail.com
-* **GitHub:** [Elen-Lavr](https://github.com/Elen-Lavr)
+* **taplink:** https://lawlena.taplink.ws
 
 ### Ключевые компетенции
     * Получение данных с помощью языка запросов SQL
