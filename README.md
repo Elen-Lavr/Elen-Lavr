@@ -49,7 +49,7 @@
 
 ---
 ##  💼 Квалификационные документы
-[![Сертификат Аналитик данных](ducation/Data_Analyst_page-01.jpg)](ducation/Data_Analyst_page.jpg)
+[![Сертификат](Education/Data_Analyst_page-01.jpg)](Education/Data_Analyst_page.jpg)
 - Диплом [Аналитик данных]()
 - Сертификат [Аналитик данных](./education/Data_Analyst.pdf)
 - Сертификат [Основы аналитики и аналитическое мышление](./education/Fundamentals_of_Analytics_and_Analytical_Thinking.pdf)
