@@ -49,7 +49,17 @@
 
 ---
 ##  💼 Квалификационные документы
-[![Сертификат](Education/Data_Analyst_page-01.jpg)](Education/Data_Analyst_page.jpg)
+[![Аналитик данных](education/images/Data_Analyst_page-01.jpg)](education/images/Data_Analyst_page.jpg)
+[![Основы аналитики и аналитическое мышление](education/images/Fundamentals_of_Analytics_and_Analytical_Thinking_page-01.jpg)](education/images/Fundamentals_of_Analytics_and_Analytical_Thinking_page.jpg)
+[![Основы статистики](education/images/Fundamentals_of_Statistics-01.jpg)](education/images/Fundamentals_of_Statistics.jpg)
+[![SQL и работа с базами данных](education/images/SQL_and_working_with_databases-01.jpg)](education/images/SQL_and_working_with_databases-01.jpg)
+[![Библиотеки Python для анализа](education/images/Python_Libraries_for_Data_Analysis-01.jpg)](education/images/Python_Libraries_for_Data_Analysis.jpg)
+[![Основы Python](education/images/Python_Basics-01.jpg)](education/images/Python_Basics.jpg)
+[![DataVizArt: Основы визуализации данных](education/images/DataVizArt_Data_Visualization_Basics-01.jpg)](education/images/DataVizArt_Data_Visualization_Basics.jpg)
+[![Power BI: анализ и визуализации данных без программирования](education/images/Power-BI-Data_Analysis_and_Visualization_Without_Programming-01.jpg)](education/images/Power-BI-Data_Analysis_and_Visualization_Without_Programming.jpg)
+[![Работа с Excel и Google-таблицами](education/images/Working_with_Excel_and_Google_Sheets-01.jpg)](education/images/Working_with_Excel_and_Google_Sheets.jpg)
+[![Тестировщик](education/images/Tester-01.jpg)](education/images/Tester.jpg)
+
 - Диплом [Аналитик данных]()
 - Сертификат [Аналитик данных](./education/Data_Analyst.pdf)
 - Сертификат [Основы аналитики и аналитическое мышление](./education/Fundamentals_of_Analytics_and_Analytical_Thinking.pdf)
