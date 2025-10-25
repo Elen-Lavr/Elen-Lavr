@@ -13,7 +13,7 @@
 ### 🗄️ Main Stack
 - **Programming Languages & Querying:**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)](#-my-projects)
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)]((#sql-и-поиск-данных))
 
 - **Data Analysis & Machine Learning:**
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
@@ -35,9 +35,9 @@
 
 
 ### 📈 My Projects
-- Python и библиотеки для анализа:
+#### Python и библиотеки для анализа:
   -  Анализ сотрудников компании и факторов увольнений (поиск инсайтов, подготовка рекомендаций для cтейкхолдеров) [presentation](https://docs.google.com/presentation/d/1T62pE2gxabrzqUdDwJtrXIX00CGbjE3W-6_ucWyvaAw/edit?usp=drive_link), [documentation](https://docs.google.com/document/d/1nRBsEwDocHEfVZivZRKNHM0efwtv2Zam/edit?usp=drive_link&ouid=115475321101961781777&rtpof=true&sd=true), [notebook](https://colab.research.google.com/drive/1YcXaNxrBdmPzy8ZANEDmNNY0ZCgDsBiS?usp=drive_link)
-- SQL и поиск данных:
+#### SQL и поиск данных:
   - [Авиаперевозки](https://github.com/Elen-Lavr/Elen-Lavr-Aviation-Transportation-SQL-Analytics)
   - [Анализ данных SQL Pro](https://github.com/Elen-Lavr/Data-Analysis-SQL-Pro)
 
