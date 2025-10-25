@@ -49,7 +49,7 @@
 ---
 ##  💼 Квалификационные документы
 - Диплом [Аналитик данных]()
-- Certificate [Аналитик данных](https://drive.google.com/file/d/1S3zms0H2frGiDMNjlNuTQR5HksHuRXUF/view?usp=sharing)
+- Certificate [Аналитик данных](./education/Data_Analyst.pdf)
 - Certificate [Основы аналитики и аналитическое мышление](https://drive.google.com/file/d/1eQCZcFzxW7dHNsBbwO6DruxNuGvEZ6S3/view?usp=sharing)
 - Certificate [Основы статистики](https://drive.google.com/file/d/1bk744hCeh_4_Qntdyt17EaEaqNh3u1QW/view?usp=sharing)
 - Certificate [SQL и работа с базами данных](https://drive.google.com/file/d/1700N2SpGLP1mHby0Y7RgMUfb014FJFKo/view?usp=sharing)
