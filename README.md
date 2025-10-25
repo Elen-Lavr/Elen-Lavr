@@ -60,17 +60,18 @@
 [![Работа с Excel и Google-таблицами](education/images/Working_with_Excel_and_Google_Sheets-01.jpg)](education/images/Working_with_Excel_and_Google_Sheets.jpg)
 [![Тестировщик](education/images/Tester-01.jpg)](education/images/Tester.jpg)
 
-Диплом [Аналитик данных]()
-Сертификат [Аналитик данных](./education/Data_Analyst.pdf)
-Сертификат [Основы аналитики и аналитическое мышление](./education/Fundamentals_of_Analytics_and_Analytical_Thinking.pdf)
-Сертификат [Основы статистики](./education/Fundamentals_of_Statistics.pdf)
-Сертификат [SQL и работа с базами данных](./education/SQL_and_working_with_databases.pdf)
-Сертификат [Библиотеки Python для анализа](./education/Python_Libraries_for_Data_Analysis.pdf)
-Сертификат [Основы Python](./education/Python_Basics.pdf)
-Сертификат [DataVizArt: Основы визуализации данных](./education/DataVizArt_Data_Visualization_Basics.pdf)
-Сертификат [Power BI: анализ и визуализации данных без программирования](./education/Power-BI-Data_Analysis_and_Visualization_Without_Programming.pdf)
-Сертификат [Работа с Excel и Google-таблицами](./education/Working_with_Excel_and_Google_Sheets.pdf)
-Сертификат [Тестировщик: быстрый старт в IT»](./education/Tester.pdf)
+Диплом [Аналитик данных]();
+Сертификаты: [Аналитик данных](./education/Data_Analyst.pdf);
+[Основы аналитики и аналитическое мышление](./education/Fundamentals_of_Analytics_and_Analytical_Thinking.pdf);
+[Основы статистики](./education/Fundamentals_of_Statistics.pdf);
+[SQL и работа с базами данных](./education/SQL_and_working_with_databases.pdf);
+[Библиотеки Python для анализа](./education/Python_Libraries_for_Data_Analysis.pdf);
+[Основы Python](./education/Python_Basics.pdf);
+[DataVizArt: Основы визуализации данных](./education/DataVizArt_Data_Visualization_Basics.pdf);
+[Power BI: анализ и визуализации данных без программирования](./education/Power-BI-Data_Analysis_and_Visualization_Without_Programming.pdf);
+[Работа с Excel и Google-таблицами](./education/Working_with_Excel_and_Google_Sheets.pdf);
+[Тестировщик](./education/Tester.pdf)
+
 ---
 
 ## 📫 Как со мной связаться
