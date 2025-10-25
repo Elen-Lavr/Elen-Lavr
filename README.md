@@ -38,7 +38,8 @@
 - Python и библиотеки для анализа:
   -  Анализ сотрудников компании и факторов увольнений (поиск инсайтов, подготовка рекомендаций для cтейкхолдеров) [presentation](https://docs.google.com/presentation/d/1T62pE2gxabrzqUdDwJtrXIX00CGbjE3W-6_ucWyvaAw/edit?usp=drive_link), [documentation](https://docs.google.com/document/d/1nRBsEwDocHEfVZivZRKNHM0efwtv2Zam/edit?usp=drive_link&ouid=115475321101961781777&rtpof=true&sd=true), [notebook](https://colab.research.google.com/drive/1YcXaNxrBdmPzy8ZANEDmNNY0ZCgDsBiS?usp=drive_link)
 - SQL и поиск данных:
-  - [Авиаперевозки](https://github.com/Elen-Lavr/Elen-Lavr-Aviation-Transportation-SQL-Analytics) 
+  - [Авиаперевозки](https://github.com/Elen-Lavr/Elen-Lavr-Aviation-Transportation-SQL-Analytics)
+  - [Анализ данных SQL Pro](https://github.com/Elen-Lavr/Data-Analysis-SQL-Pro)
 
 ### 🧠 Soft Skills
 - **Бизнес-мышление & Коммуникация.** Опыт управления организацией научил меня переводить бизнес-проблемы на язык данных и доносить инсайты до любой аудитории
