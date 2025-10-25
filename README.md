@@ -56,7 +56,7 @@
 - Сертификат [Библиотеки Python для анализа](./education/Python_Libraries_for_Data_Analysis.pdf)
 - Сертификат [Основы Python](./education/Python_Basics.pdf)
 - Сертификат [DataVizArt: Основы визуализации данных](./education/DataVizArt_Data_Visualization_Basics.pdf)
-- CСертификат [Power BI: анализ и визуализации данных без программирования](./education/Power-BI-Data_Analysis_and_Visualization_Without_Programming.pdf)
+- Сертификат [Power BI: анализ и визуализации данных без программирования](./education/Power-BI-Data_Analysis_and_Visualization_Without_Programming.pdf)
 - Сертификат [Работа с Excel и Google-таблицами](./education/Working_with_Excel_and_Google_Sheets.pdf)
 - Сертификат [Тестировщик: быстрый старт в IT»](./education/Tester.pdf)
 ---
