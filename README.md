@@ -50,15 +50,15 @@
 ##  💼 Квалификационные документы
 - Диплом [Аналитик данных]()
 - Certificate [Аналитик данных](./education/Data_Analyst.pdf)
-- Certificate [Основы аналитики и аналитическое мышление](https://drive.google.com/file/d/1eQCZcFzxW7dHNsBbwO6DruxNuGvEZ6S3/view?usp=sharing)
-- Certificate [Основы статистики](https://drive.google.com/file/d/1bk744hCeh_4_Qntdyt17EaEaqNh3u1QW/view?usp=sharing)
-- Certificate [SQL и работа с базами данных](https://drive.google.com/file/d/1700N2SpGLP1mHby0Y7RgMUfb014FJFKo/view?usp=sharing)
-- Certificate [Библиотеки Python для анализа](https://drive.google.com/file/d/18zfR6559zuainiLroxQw5jyNgyMNkjJj/view?usp=sharing)
-- Certificate [Основы Python](https://drive.google.com/file/d/1AdtqDwZVBDDENDLplcoVFO0VnprgUgC9/view?usp=sharing)
-- Certificate [DataVizArt: Основы визуализации данных](https://drive.google.com/file/d/1iHeUoplKYa1YtVlf90_sb13AhuSirB5y/view?usp=sharing)
-- Certificate [Power BI: анализ и визуализации данных без программирования](https://drive.google.com/file/d/1OqFrFQhh8Wd4NmwEDncgrnMu2AzhV5zb/view?usp=sharing)
-- Certificate [Работа с Excel и Google-таблицами](https://drive.google.com/file/d/1Nt2dmTKt7MCMyZh0ypBtp8VsrMofK1x6/view?usp=sharing)
-- Certificate [Тестировщик: быстрый старт в IT»](https://drive.google.com/file/d/1Q5TicwBEQtQLeCoaDs_MZZm6Yk3H_Ptl/view?usp=sharing)
+- Certificate [Основы аналитики и аналитическое мышление](./education/Fundamentals_of_Analytics_and_Analytical_Thinking.pdf)
+- Certificate [Основы статистики](./education/Fundamentals_of_Statistics.pdf)
+- Certificate [SQL и работа с базами данных](./education/SQL_and_working_with_databases.pdf)
+- Certificate [Библиотеки Python для анализа](./education/Python_Libraries_for_Data_Analysis.pdf)
+- Certificate [Основы Python](./education/Python_Basics.pdf)
+- Certificate [DataVizArt: Основы визуализации данных](./education/DataVizArt_Data_Visualization_Basics.pdf)
+- Certificate [Power BI: анализ и визуализации данных без программирования](./education/Power-BI-Data_Analysis_and_Visualization_Without_Programming.pdf)
+- Certificate [Работа с Excel и Google-таблицами](./education/Working_with_Excel_and_Google_Sheets.pdf)
+- Certificate [Тестировщик: быстрый старт в IT»](./education/Tester.pdf)
 ---
 
 ## 📫 Как со мной связаться
