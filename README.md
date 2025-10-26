@@ -40,7 +40,7 @@
 #### SQL и поиск данных:
   - [Авиаперевозки](https://github.com/Elen-Lavr/Elen-Lavr-Aviation-Transportation-SQL-Analytics)
   - [Анализ данных SQL Pro](https://github.com/Elen-Lavr/Data-Analysis-SQL-Pro)
-  - [Мщй coding-challenges SQL](https://github.com/Elen-Lavr/my-coding-challenges-SQL)
+  - [Мой coding-challenges SQL](https://github.com/Elen-Lavr/my-coding-challenges-SQL)
 
 ### 🧠 Soft Skills
 - **Бизнес-мышление & Коммуникация.** Опыт управления организацией научил меня переводить бизнес-проблемы на язык данных и доносить инсайты до любой аудитории
