@@ -41,7 +41,7 @@
   - [Авиаперевозки](https://github.com/Elen-Lavr/Elen-Lavr-Aviation-Transportation-SQL-Analytics)
   - [Анализ данных SQL Pro](https://github.com/Elen-Lavr/Data-Analysis-SQL-Pro)
 
-#### 💻 Мой coding-challenges
+### 💻 Мой coding-challenges
   - [Coding-challenges SQL](https://github.com/Elen-Lavr/my-coding-challenges-SQL)
 
 ### 🧠 Soft Skills
