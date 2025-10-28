@@ -78,8 +78,7 @@
 
 ---
 
-## 📫 Как со мной связаться
-- [Taplink](https://lawlena.taplink.ws)
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> &nbsp; [![Taplink](https://img.shields.io/badge/Давайте_работать_вместе!-Taplink-FF69B4?style=for-the-badge&logo=linktree)](https://lawlena.taplink.ws)
 
 ---
 
