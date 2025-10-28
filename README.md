@@ -20,8 +20,6 @@
 [![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)]()
 [![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)]()
 
-[![Email](https://img.shields.io/badge/Email-Написать_письмо-D14836?style=for-the-badge&logo=gmail)](mailto:Elena@gmail.com)
-
 - **Data Visualization and Version Control:**
 [![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)]()
 [![Seaborn](https://img.shields.io/badge/Seaborn-4BB1B1?style=for-the-badge)]()
