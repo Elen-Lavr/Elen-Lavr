@@ -52,6 +52,7 @@
 
 ---
 ##  💼 Квалификационные документы
+[![Диплом с отличием](education/Diploma_with_honors_01.jpg)](education/Diploma_with_honors.jpg)
 [![Аналитик данных](education/images/Data_Analyst_page-01.jpg)](education/images/Data_Analyst_page.jpg)
 [![Основы аналитики и аналитическое мышление](education/images/Fundamentals_of_Analytics_and_Analytical_Thinking_page-01.jpg)](education/images/Fundamentals_of_Analytics_and_Analytical_Thinking_page.jpg)
 [![Основы статистики](education/images/Fundamentals_of_Statistics-01.jpg)](education/images/Fundamentals_of_Statistics.jpg)
@@ -63,7 +64,7 @@
 [![Работа с Excel и Google-таблицами](education/images/Working_with_Excel_and_Google_Sheets-01.jpg)](education/images/Working_with_Excel_and_Google_Sheets.jpg)
 [![Тестировщик](education/images/Tester-01.jpg)](education/images/Tester.jpg)
 
-Диплом [Аналитик данных]();
+Диплом с отличием [Аналитик данных](./education/Diploma_with_honors.jpg);
 Сертификаты: [Аналитик данных](./education/Data_Analyst.pdf);
 [Основы аналитики и аналитическое мышление](./education/Fundamentals_of_Analytics_and_Analytical_Thinking.pdf);
 [Основы статистики](./education/Fundamentals_of_Statistics.pdf);
