@@ -79,7 +79,7 @@
 ---
 
 ## 📫 Как со мной связаться
-- [LinkedIn](https://lawlena.taplink.ws)
+- [Taplink](https://lawlena.taplink.ws)
 
 ---
 
