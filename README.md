@@ -90,6 +90,9 @@
 [![Taplink](https://img.shields.io/badge/Давайте_работать_вместе!-Taplink-FF69B4?style=for-the-badge&logo=linktree)](https://lawlena.taplink.ws)
 [![Email](https://img.shields.io/badge/Email-Написать_письмо-D14836?style=for-the-badge&logo=gmail)](mailto:Elena@gmail.com)
 
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> &nbsp; 
+[![Taplink](https://img.shields.io/badge/Давайте_работать_вместе!-Taplink-FF69B4?style=for-the-badge&logo=linktree)](https://lawlena.taplink.ws)
+[![Email](https://img.shields.io/badge/Elena@gmail.com-Написать_письмо-D14836?style=for-the-badge&logo=gmail)](mailto:Elena@gmail.com)
 ---
 
 ⭐ *Готова присоединиться к команде, где смогу использовать свои аналитические способности для извлечения actionable insights. Заинтересована в проектах, связанных с анализом бизнес-показателей, построением дашбордов или исследовательским анализом.*
