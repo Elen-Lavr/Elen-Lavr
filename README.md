@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Lucida+Handwriting&size=33&color=F74D97&width=800&height=120&lines=Hi,+I'm+Elena+🤗;I+am+a+Data+Analyst;Behind+every+number+there+is+a+solution🔎&center=true" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Lucida+Handwriting&size=33&color=F74D97&width=800&height=120&duration=5000&pause=1500&lines=Hi,+I'm+Elena+🤗;I+am+a+Data+Analyst+💻;Behind+Every+Number+There+is+a+Solution🔎;Please+Support+and+Follow+🤝&center=true" />
 </h1>
 
 🏢 Я - Помогаю увидеть картину происходящего в настоящем и будущем через призму данных. Моя задача — сделать связи очевидными и понятными
