@@ -1,25 +1,8 @@
 <h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Codeo&size=30&duration=4000&pause=1000&color=F74D97&center=true&vCenter=true&width=500&height=70&lines=Привет,+я+Елена;Data+Analyst;Давайте+работать+вместе!&repeat=true" alt="Typing SVG" />
-  </a>
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Lucida+Handwriting&size=33&color=F74D97&width=800&height=120&lines=Hi,+I'm+Elena+🤗;I+am+a+Data+Analyst;Behind+every+number+there+is+a+solution🔎&center=true" />
 </h1>
 
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&color=F74D97&lines=Привет,+я+Елена;Data+Analyst;Давайте+работать+вместе!&random=true&v=1" alt="Typing Animation" />
-</h1>
-
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com/demo/?font=Fira+Code&color=F74D97&lines=Привет,+я+Елена;Data+Analyst;Давайте+работать+вместе!" alt="Typing Animation" />
-</h1>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?lines=Привет,+я+Елена;Data+Analyst;Давайте+работать+вместе!&color=F74D97" alt="Typing Animation" />
-</p>
-
-
-# Привет! Меня зовут Елена Лаврушева 👋
-
-🏢 Я - **Data Analyst** | Помогаю увидеть картину происходящего в настоящем и будущем через призму данных. За каждой цифрой скрывается решение. Моя задача — сделать связи очевидными и понятными
+🏢 Я - Помогаю увидеть картину происходящего в настоящем и будущем через призму данных. Моя задача — сделать связи очевидными и понятными
 
 📚 Для меня аналитика данных — это глубокая страсть к поиску истины в цифрах
 
