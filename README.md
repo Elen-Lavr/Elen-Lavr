@@ -5,12 +5,17 @@
 </h1>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&color=F74D97&width=500&lines=Hello,+I'm+Elena;Data+Analyst;Let's+work+together!&center=true&repeat=true" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&color=F74D97&lines=Привет,+я+Елена;Data+Analyst;Давайте+работать+вместе!&random=true&v=1" alt="Typing Animation" />
 </h1>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&color=F74D97&lines=Привет,+я+Елена;Data+Analyst;Давайте+работать+вместе!" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com/demo/?font=Fira+Code&color=F74D97&lines=Привет,+я+Елена;Data+Analyst;Давайте+работать+вместе!" alt="Typing Animation" />
 </h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?lines=Привет,+я+Елена;Data+Analyst;Давайте+работать+вместе!&color=F74D97" alt="Typing Animation" />
+</p>
+
 
 # Привет! Меня зовут Елена Лаврушева 👋
 
