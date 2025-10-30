@@ -6,6 +6,16 @@
 
 💪 Моя сильная сторона — не только во владении инструментами (Python, Pandas, SQL, визуализация), но и во врожденном любопытстве, которое движет мной в поиске причин, следствий и скрытых закономерностей. Я постоянно совершенствую свои Hard Skills, применяя их в работе и жизни
 
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=Elen-Lavr&show_icons=true&theme=default&hide=prs,issues" alt="Stats" width="400"/>
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Elen-Lavr&layout=compact" alt="Languages" width="300"/>
+    </td>
+  </tr>
+</table>
 ---
 
 ## 🛠️ Технологический стек и навыки
@@ -36,7 +46,10 @@
 
 ### 📈 My Projects
 #### Python и библиотеки для анализа:
-  -  Анализ сотрудников компании и факторов увольнений (поиск инсайтов, подготовка рекомендаций для cтейкхолдеров) [presentation](https://docs.google.com/presentation/d/1T62pE2gxabrzqUdDwJtrXIX00CGbjE3W-6_ucWyvaAw/edit?usp=drive_link), [documentation](https://docs.google.com/document/d/1nRBsEwDocHEfVZivZRKNHM0efwtv2Zam/edit?usp=drive_link&ouid=115475321101961781777&rtpof=true&sd=true), [notebook](https://colab.research.google.com/drive/1YcXaNxrBdmPzy8ZANEDmNNY0ZCgDsBiS?usp=drive_link)
+  -  Анализ данных о сотрудниках для выявления ключевых факторов, влияющих на увольнение. Проект включает в себя очистку данных, исследовательский анализ (EDA) и подготовку презентации для стейкхолдеров с рекомендациями по снижению текучести. 
+[presentation](https://docs.google.com/presentation/d/1T62pE2gxabrzqUdDwJtrXIX00CGbjE3W-6_ucWyvaAw/edit?usp=drive_link),
+[documentation](https://docs.google.com/document/d/1nRBsEwDocHEfVZivZRKNHM0efwtv2Zam/edit?usp=drive_link&ouid=115475321101961781777&rtpof=true&sd=true),
+[notebook](https://colab.research.google.com/drive/1YcXaNxrBdmPzy8ZANEDmNNY0ZCgDsBiS?usp=drive_link)
 #### SQL и поиск данных:
   - [Авиаперевозки](https://github.com/Elen-Lavr/Elen-Lavr-Aviation-Transportation-SQL-Analytics)
   - [Анализ данных SQL Pro](https://github.com/Elen-Lavr/Data-Analysis-SQL-Pro)
