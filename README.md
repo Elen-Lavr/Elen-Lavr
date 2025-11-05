@@ -48,7 +48,7 @@
 
 ### 📈 My Projects
 #### Python и библиотеки для анализа:
-  -  [Анализ данных о сотрудниках для выявления ключевых факторов, влияющих на увольнение.]([https://github.com/Elen-Lavr/employee-turnover-analysis/settings](https://github.com/Elen-Lavr/employee-turnover-analysis)) Проект включает в себя очистку данных, исследовательский анализ (EDA) и подготовку презентации для стейкхолдеров с рекомендациями по снижению текучести.
+  -  [Анализ данных о сотрудниках для выявления ключевых факторов, влияющих на увольнение.](https://github.com/Elen-Lavr/employee-turnover-analysis) Проект включает в себя очистку данных, исследовательский анализ (EDA) и подготовку презентации для стейкхолдеров с рекомендациями по снижению текучести.
 [presentation](https://docs.google.com/presentation/d/1T62pE2gxabrzqUdDwJtrXIX00CGbjE3W-6_ucWyvaAw/edit?usp=drive_link),
 [documentation](https://docs.google.com/document/d/1nRBsEwDocHEfVZivZRKNHM0efwtv2Zam/edit?usp=drive_link&ouid=115475321101961781777&rtpof=true&sd=true),
 [notebook](https://colab.research.google.com/drive/1YcXaNxrBdmPzy8ZANEDmNNY0ZCgDsBiS?usp=drive_link)
