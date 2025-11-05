@@ -51,7 +51,7 @@
   -  [Анализ данных о сотрудниках для выявления ключевых факторов, влияющих на увольнение.](https://github.com/Elen-Lavr/employee-turnover-analysis) Проект включает в себя очистку данных, исследовательский анализ (EDA) и подготовку презентации для стейкхолдеров с рекомендациями по снижению текучести.
 [presentation](https://docs.google.com/presentation/d/1T62pE2gxabrzqUdDwJtrXIX00CGbjE3W-6_ucWyvaAw/edit?usp=drive_link),
 [documentation](https://docs.google.com/document/d/1nRBsEwDocHEfVZivZRKNHM0efwtv2Zam/edit?usp=drive_link&ouid=115475321101961781777&rtpof=true&sd=true),
-[notebook](https://colab.research.google.com/drive/1FHPClMnPge8wcgn8mwqqU-9KbXaVzneG#scrollTo=LOWDU2VQLAfR)
+[notebook](https://colab.research.google.com/drive/1FHPClMnPge8wcgn8mwqqU-9KbXaVzneG)
 #### SQL и поиск данных:
   - [Авиаперевозки](https://github.com/Elen-Lavr/Elen-Lavr-Aviation-Transportation-SQL-Analytics). В рамках проекта провела всесторонний анализ данных авиакомпании, используя PostgreSQL. Решила серию бизнес-задач, включая анализ эффективности использования воздушного флота, расчет ключевых финансовых метрик (динамика выручки, классификация маршрутов по доходности, медианные значения), оценку операционной эффективности и сегментацию клиентской базы. В работе активно применял оконные функции, CTE, сложные JOIN'ы и агрегацию данных, что позволило извлечь инсайты для поддержки управленческих решений.
   - [Анализ данных SQL Pro](https://github.com/Elen-Lavr/Data-Analysis-SQL-Pro)
