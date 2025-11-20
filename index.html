@@ -27,47 +27,58 @@
             width: 100%;
             max-width: 900px;
             text-align: center;
-            padding: 60px 40px;
+            padding: 40px 20px;
             border-radius: 20px;
             overflow: hidden;
             box-shadow: 0 10px 30px rgba(0, 0, 0, 0.5);
-            background: linear-gradient(135deg, #1e3a8a, #3730a3);
         }
 
-        .content {
-            position: relative;
-            z-index: 2;
+        .background {
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            background-image: url('business_card_background.jpg');
+            background-size: cover;
+            background-position: center;
+            opacity: 0.4;
+            z-index: -2;
         }
 
-        .text-line {
-            font-size: 32px;
-            margin: 15px 0;
-            opacity: 0;
-            animation: fadeIn 0.8s forwards;
+        .overlay {
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            background: rgba(15, 23, 42, 0.7);
+            z-index: -1;
         }
 
-        .text-line:nth-child(1) { animation-delay: 0.5s; }
-        .text-line:nth-child(2) { animation-delay: 2s; }
-        .text-line:nth-child(3) { animation-delay: 4s; }
-        .text-line:nth-child(4) { animation-delay: 6s; }
-
-        @keyframes fadeIn {
-            to { opacity: 1; }
+        h1 {
+            margin: 0;
+            padding: 0;
         }
 
-        .emoji {
-            font-size: 36px;
+        .typing-image {
+            border-radius: 10px;
+            box-shadow: 0 5px 15px rgba(0, 0, 0, 0.3);
+            filter: drop-shadow(0 0 8px rgba(147, 197, 253, 0.2));
+            max-width: 100%;
+            height: auto;
         }
     </style>
 </head>
 <body>
     <div class="container">
-        <div class="content">
-            <div class="text-line">Hi, I'm Elena <span class="emoji">🤗</span></div>
-            <div class="text-line">I am a Data Analyst <span class="emoji">💻</span></div>
-            <div class="text-line">Behind Every Number There is a Solution <span class="emoji">🔎</span></div>
-            <div class="text-line">Please Support and Follow <span class="emoji">🤝</span></div>
-        </div>
+        <div class="background"></div>
+        <div class="overlay"></div>
+        <h1>
+            <img class="typing-image" 
+                 src="https://readme-typing-svg.herokuapp.com/?font=Great+Vibes&size=38&color=93C5FD&width=800&height=120&duration=5000&pause=1500&lines=Hi,+I'm+Elena+🤗;I+am+a+Data+Analyst+💻;Behind+Every+Number+There+is+a+Solution🔎;Please+Support+and+Follow+🤝&center=true" 
+                 alt="Animated typing text" />
+        </h1>
     </div>
 </body>
 </html>
