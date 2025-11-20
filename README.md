@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Great+Vibes&size=40&color=93C5FD&width=600&height=80&duration=5000&pause=1500&lines=Hi,+I'm+Elena+Lavr+🤗;Data+Analyst+💻;Behind+Every+Number+There+is+a+Solution🔎;Welcome+to+my+GitHub+🤝" alt="Typing Animation" />
+![Animated Business Card](assets/business-card.gif)
 
 <!-- Разделитель -->
 <img src="https://github-readme-streak-stats.herokuapp.com?user=Elen-Lavr&theme=radical&border_radius=10" alt="GitHub Streak" />
