@@ -1,20 +1,10 @@
 <div align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Great+Vibes&size=40&color=93C5FD&width=600&height=80&duration=5000&pause=1500&lines=Hi,+I'm+Elena+Lavr+🤗;Data+Analyst+💻;Behind+Every+Number+There+is+a+Solution🔎;Welcome+to+my+GitHub+🤝" alt="Typing Animation" />
 
-### Моя интерактивная визитка:
+<!-- Разделитель -->
+<img src="https://github-readme-streak-stats.herokuapp.com?user=Elen-Lavr&theme=radical&border_radius=10" alt="GitHub Streak" />
 
-<iframe 
-    src="https://elen-lavr.github.io/Elen-Lavr/greetings.html" 
-    width="100%" 
-    height="400"
-    style="border: none; border-radius: 10px; background: transparent;"
-    title="Интерактивная визитка Елены">
-</iframe>
 
-</div>
-
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Lucida+Handwriting&size=33&color=F74D97&width=800&height=120&duration=5000&pause=1500&lines=Hi,+I'm+Elena+🤗;I+am+a+Data+Analyst+💻;Behind+Every+Number+There+is+a+Solution🔎;Please+Support+and+Follow+🤝&center=true" />
-</h1>
 
 🏢 Я - **Аналитик Данных**. Помогаю увидеть картину происходящего в настоящем и будущем через призму данных. Моя задача — сделать связи очевидными и понятными
 
