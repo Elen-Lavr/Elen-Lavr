@@ -1,5 +1,6 @@
 <div align="center">
-![Animated Business Card](assets/business-card.gif)
+  
+![Animated Business Card](assets/business-card.gif) 
 
 <!-- Разделитель -->
 <img src="https://github-readme-streak-stats.herokuapp.com?user=Elen-Lavr&theme=radical&border_radius=10" alt="GitHub Streak" />
