@@ -1,6 +1,6 @@
 <div align="center">
   
-![Animated Business Card](assets/business-card.gif) 
+![Animated Business Card](https://raw.githubusercontent.com/Elen-Lavr/Elen-Lavr/main/docs/business-card.gif)
 
 
 🏢 Я - **Аналитик Данных**. Помогаю увидеть картину происходящего в настоящем и будущем через призму данных. Моя задача — сделать связи очевидными и понятными
