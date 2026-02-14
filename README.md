@@ -18,7 +18,7 @@
 
 ## 🛠️ Технологический стек и навыки
 
-### 🗄️ Main Stack
+### 🗄️ Мой Stack
 - **Programming Languages & Querying:**
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](#Python-и-библиотеки-для-анализа)
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)](#sql-и-поиск-данных)
@@ -42,7 +42,7 @@
 [![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)]()
 
 
-### 📈 My Projects
+### 📈 Мои Projects
 #### Python и библиотеки для анализа:
   -  [Анализ данных о сотрудниках для выявления ключевых факторов, влияющих на увольнение.](https://github.com/Elen-Lavr/employee-turnover-analysis) Проект включает в себя очистку данных, исследовательский анализ (EDA) и подготовку презентации для стейкхолдеров с рекомендациями по снижению текучести.
 [presentation](https://docs.google.com/presentation/d/1cYFqdsvFXwrm2EBuayYcN8pmMZcscPsEOAlFd3zDFnM/edit?usp=sharing),
