@@ -65,30 +65,11 @@
 ### Галерея сертификатов *(нажмите на изображение для просмотра в полном размере）*
 
 [![Диплом с отличием](education/Diploma_with_honors_01.jpg)](education/Diploma_with_honors.jpg)
-[![Аналитик данных](education/images/Data_Analyst_page-01.jpg)](education/images/Data_Analyst_page.jpg)
-[![Основы аналитики и аналитическое мышление](education/images/Fundamentals_of_Analytics_and_Analytical_Thinking_page-01.jpg)](education/images/Fundamentals_of_Analytics_and_Analytical_Thinking_page.jpg)
-[![Основы статистики](education/images/Fundamentals_of_Statistics-01.jpg)](education/images/Fundamentals_of_Statistics.jpg)
 [![SQL и работа с базами данных](education/images/SQL_and_working_with_databases-01.jpg)](education/images/SQL_and_working_with_databases-01.jpg)
 [![Библиотеки Python для анализа](education/images/Python_Libraries_for_Data_Analysis-01.jpg)](education/images/Python_Libraries_for_Data_Analysis.jpg)
-[![Основы Python](education/images/Python_Basics-01.jpg)](education/images/Python_Basics.jpg)
-[![DataVizArt: Основы визуализации данных](education/images/DataVizArt_Data_Visualization_Basics_page-01.jpg)](education/images/DataVizArt_Data_Visualization_Basics_page.jpg)
-[![Power BI: анализ и визуализации данных без программирования](education/images/Power-BI-Data_Analysis_and_Visualization_Without_Programming-01.jpg)](education/images/Power-BI-Data_Analysis_and_Visualization_Without_Programming.jpg)
-[![Работа с Excel и Google-таблицами](education/images/Working_with_Excel_and_Google_Sheets-01.jpg)](education/images/Working_with_Excel_and_Google_Sheets.jpg)
-[![Тестировщик](education/images/Tester-01.jpg)](education/images/Tester.jpg)
-
-### 📎 Ссылки для скачивания
-*Диплом с отличием* [Аналитик данных](./education/Diploma_with_honors.jpg);
-
-*Сертификаты:* [Аналитик данных](./education/Data_Analyst.pdf);
-[Основы аналитики и аналитическое мышление](./education/Fundamentals_of_Analytics_and_Analytical_Thinking.pdf);
-[Основы статистики](./education/Fundamentals_of_Statistics.pdf);
-[SQL и работа с базами данных](./education/SQL_and_working_with_databases.pdf);
-[Библиотеки Python для анализа](./education/Python_Libraries_for_Data_Analysis.pdf);
-[Основы Python](./education/Python_Basics.pdf);
-[DataVizArt: Основы визуализации данных](./education/DataVizArt_Data_Visualization_Basics.pdf);
-[Power BI: анализ и визуализации данных без программирования](./education/Power-BI-Data_Analysis_and_Visualization_Without_Programming.pdf);
-[Работа с Excel и Google-таблицами](./education/Working_with_Excel_and_Google_Sheets.pdf);
-[Тестировщик](./education/Tester.pdf)
+[![Библиотеки Python для анализа](education/images/Python_Libraries_for_Data_Analysis-01.jpg)](education/images/Python_Libraries_for_Data_Analysis.jpg)
+[![Когортный & RFM анализ в SQL](education/images/Python_Libraries_for_Data_Analysis-01.jpg)](education/images/Cohort_and_RFM_analysis.jpg)
+[![SQL_Androsov](education/images/Python_Libraries_for_Data_Analysis-01.jpg)](education/images/SQL_Androsov.jpg)
 
 ---
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> &nbsp; [![Taplink](https://img.shields.io/badge/Давайте_работать_вместе!-Taplink-FF69B4?style=for-the-badge&logo=linktree)](https://lawlena.taplink.ws)
