@@ -67,7 +67,6 @@
 [![Диплом с отличием](education/Diploma_with_honors_01.jpg)](education/Diploma_with_honors.jpg)
 [![SQL и работа с базами данных](education/images/SQL_and_working_with_databases-01.jpg)](education/images/SQL_and_working_with_databases.jpg)
 [![Библиотеки Python для анализа](education/images/Python_Libraries_for_Data_Analysis-01.jpg)](education/images/Python_Libraries_for_Data_Analysis.jpg)
-[![Библиотеки Python для анализа](education/images/Python_Libraries_for_Data_Analysis-01.jpg)](education/images/Python_Libraries_for_Data_Analysis.jpg)
 [![Когортный & RFM анализ в SQL](education/images/SQL_Androsov_01.png)](education/images/SQL_Androsov.pdf)
 [![SQL_Androsov](education/images/Cohort_and_RFM_analysis_01.png)](education/images/Cohort_and_RFM_analysis.pdf)
 
