@@ -68,8 +68,8 @@
 [![SQL и работа с базами данных](education/images/SQL_and_working_with_databases-01.jpg)](education/images/SQL_and_working_with_databases.jpg)
 [![Библиотеки Python для анализа](education/images/Python_Libraries_for_Data_Analysis-01.jpg)](education/images/Python_Libraries_for_Data_Analysis.jpg)
 [![Библиотеки Python для анализа](education/images/Python_Libraries_for_Data_Analysis-01.jpg)](education/images/Python_Libraries_for_Data_Analysis.jpg)
-[![Когортный & RFM анализ в SQL](education/images/Python_Libraries_for_Data_Analysis-01.jpg)](education/images/Cohort_and_RFM_analysis.jpg)
-[![SQL_Androsov](education/images/Python_Libraries_for_Data_Analysis-01.jpg)](education/images/SQL_Androsov.jpg)
+[![Когортный & RFM анализ в SQL](education/images/SQL_Androsov_01.png)](education/images/SQL_Androsov.pdf)
+[![SQL_Androsov](education/images/Cohort_and_RFM_analysis_01.png)](education/images/Cohort_and_RFM_analysis.pdf)
 
 ---
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> &nbsp; [![Taplink](https://img.shields.io/badge/Давайте_работать_вместе!-Taplink-FF69B4?style=for-the-badge&logo=linktree)](https://lawlena.taplink.ws)
